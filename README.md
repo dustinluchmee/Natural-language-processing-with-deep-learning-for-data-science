@@ -1,5 +1,5 @@
 # Natural-language-processing-with-deep-learning-for-data-science
-## Extracting tweet-like summaries from the news
+## Project Title: Extracting tweet-like summaries from the news
 ### Techniques employed:
 - Continuous Bag of Words (CBOW)
 - Scikit-learn
